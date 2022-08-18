@@ -103,3 +103,8 @@
 
  
 }
+@media only screen and (max-width: 792px)
+.site-main .subscribe-us-area .subscribe form .input-textbox input {
+    width: 0;
+    margin: 5%;
+}
